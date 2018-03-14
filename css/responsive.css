@@ -1,0 +1,1092 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+
+.shr-logo{
+	margin-top: 10px;
+	width: 100px;
+	height: auto;
+}
+.top-nav-collapse .shr-logo {
+  margin-top: 10px;
+}
+.navbar-default .navbar-nav > li > a{
+	margin: 15px 1px;
+}
+
+
+
+.shr-hero-area {
+  padding-bottom: 60px;
+  padding-top: 150px;
+  height: 1000px;
+}
+
+
+
+.shr-welcome-content{
+	margin-bottom: 20px;
+}
+
+
+
+
+
+.shr-features-area{
+	padding-bottom: 90px;
+}
+.shr-left-features-text{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.shr-right-features-text{
+	margin-top: 0;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.shr-features-img{
+	margin-bottom: 30px;
+	width: 100%;
+}
+
+
+
+.shr-pricing-area .shr-table-col{
+	margin-bottom: 30px;
+}
+
+
+.shr-describe-area{
+	text-align: center;
+}
+.shr-discribe-col h1 {
+  font-size: 28px;
+  line-height: 40px;
+}
+.shr-discribe-col p{
+	margin-bottom: 25px;
+}
+
+
+
+.shr-team-area{
+	text-align: center;
+}
+
+
+
+.shr-counter-area{
+	text-align: center;
+}
+.shr-count-col i{
+	margin-bottom: 20px;
+}
+
+
+
+.shr-news-area{
+	text-align: center;
+}
+.shr-news-content .shr-awesome{
+	position: relative;
+	margin-bottom: 20px;
+}
+.shr-news-content{
+	padding-left: 0px;
+}
+.shr-news-info {
+  width: 400px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.shr-news-info ul li{
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+
+
+.navbar-form{
+	box-shadow: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+
+.shr-footer-btn .btn{
+	margin-bottom: 20px;
+}
+.shr-footer-btn{
+	margin-bottom: 30px;
+}
+.shr-socila-grup{
+	padding-top: 30px;
+}
+.shr-socila-grup i{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+
+
+}
+
+/* Tablet Layout: 800px. */
+@media only screen and (min-width: 800px) and (max-width: 991px) {
+
+.shr-logo{
+	margin-top: 10px;
+	width: 100px;
+	height: auto;
+}
+.top-nav-collapse .shr-logo {
+  margin-top: 10px;
+}
+.navbar-default .navbar-nav > li > a{
+	margin: 15px 1px;
+}
+
+
+
+.shr-hero-area{
+	padding-top: 120px;
+}
+.shr-hero-area h1{
+	padding-top: 0px;
+	font-size: 32px;
+	margin-bottom: 0px;
+}
+.shr-hero-area .btn{
+	margin-bottom: 20px;
+}
+.shr-hero-area .shr-download-btn{
+	margin-bottom: 80px;
+}
+.shr-hero-content-img {
+  position: absolute;
+  right: 0;
+  top: 83px;
+}
+
+
+.shr-welcome-area {
+  padding: 60px 0 40px;
+}
+.shr-sub-title{
+	margin-bottom: 30px;
+}
+.shr-welcome-content{
+	margin-bottom: 20px;
+}
+
+
+
+
+
+.shr-features-area {
+  padding: 60px 0 30px;
+}
+.shr-left-features-text{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.shr-right-features-text{
+	margin-top: 0;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.shr-features-img{
+	margin-bottom: 30px;
+}
+
+
+.shr-pricing-area{
+	padding: 60px 0px 30px;
+}
+.shr-pricing-area .shr-table-col{
+	margin-bottom: 30px;
+}
+
+
+.shr-describe-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-discribe-col h1 {
+  font-size: 28px;
+  line-height: 40px;
+}
+.shr-discribe-col p{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-team-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-team-col{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-counter-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-counter-area .shr-count-col {
+  margin-bottom: 30px;
+}
+.shr-count-col i{
+	margin-bottom: 20px;
+}
+
+
+
+.shr-news-area{
+	padding: 60px 0px 60px;
+	text-align: center;
+}
+.shr-news-col{
+	margin-bottom: 30px;
+}
+.shr-news-content .shr-awesome{
+	position: relative;
+	margin-bottom: 20px;
+}
+.shr-news-content{
+	padding-left: 0px;
+}
+.shr-news-info {
+  width: 400px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.shr-news-info ul li{
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+
+.shr-subscribe-area{
+	padding: 60px 0px 60px;
+}
+.navbar-form{
+	box-shadow: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.shr-contact-area{
+	padding: 60px 0px;
+}
+
+
+.shr-footer-area{
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.shr-footer-btn .btn{
+	margin-bottom: 20px;
+}
+.shr-footer-btn{
+	margin-bottom: 30px;
+}
+.shr-socila-grup{
+	padding-top: 30px;
+}
+.shr-socila-grup i{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+	
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 799px) {
+
+.shr-logo{
+	margin-top: 10px;
+	width: 100px;
+	height: auto;
+}
+.top-nav-collapse .shr-logo {
+  margin-top: 10px;
+}
+.navbar-default .navbar-nav > li > a{
+	margin: 15px 1px;
+}
+
+
+
+.shr-hero-area{
+	padding-top: 120px;
+}
+.shr-hero-area h1{
+	padding-top: 0px;
+	font-size: 32px;
+	margin-bottom: 0px;
+}
+.shr-hero-area .btn{
+	margin-bottom: 20px;
+}
+.shr-hero-area .shr-download-btn{
+	margin-bottom: 80px;
+}
+.shr-hero-content-img {
+  position: absolute;
+  right: 0;
+  top: 83px;
+}
+
+
+.shr-welcome-area {
+  padding: 60px 0 40px;
+}
+.shr-sub-title{
+	margin-bottom: 30px;
+}
+.shr-welcome-content{
+	margin-bottom: 20px;
+}
+
+
+
+
+
+.shr-features-area {
+  padding: 60px 0 30px;
+}
+.shr-left-features-text{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.shr-right-features-text{
+	margin-top: 0;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.shr-features-img{
+	margin-bottom: 30px;
+}
+
+
+.shr-pricing-area{
+	padding: 60px 0px 30px;
+}
+.shr-pricing-area .shr-table-col{
+	margin-bottom: 30px;
+}
+
+
+.shr-describe-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-discribe-col h1 {
+  font-size: 28px;
+  line-height: 40px;
+}
+.shr-discribe-col p{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-team-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-team-col{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-counter-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-counter-area .shr-count-col {
+  margin-bottom: 30px;
+}
+.shr-count-col i{
+	margin-bottom: 20px;
+}
+
+
+
+.shr-news-area{
+	padding: 60px 0px 60px;
+	text-align: center;
+}
+.shr-news-col{
+	margin-bottom: 30px;
+}
+.shr-news-content .shr-awesome{
+	position: relative;
+	margin-bottom: 20px;
+}
+.shr-news-content{
+	padding-left: 0px;
+}
+.shr-news-info {
+  width: 400px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.shr-news-info ul li{
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+
+.shr-subscribe-area{
+	padding: 60px 0px 60px;
+}
+.navbar-form{
+	box-shadow: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.shr-contact-area{
+	padding: 60px 0px;
+}
+
+
+.shr-footer-area{
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.shr-footer-btn .btn{
+	margin-bottom: 20px;
+}
+.shr-footer-btn{
+	margin-bottom: 30px;
+}
+.shr-socila-grup{
+	padding-top: 30px;
+}
+.shr-socila-grup i{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+
+}
+
+/* Wide Mobile Layout: 600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+.shr-logo{
+	margin-top: 10px;
+	width: 100px;
+	height: auto;
+}
+.navbar{
+	min-height: 60px !important;
+}
+.top-nav-collapse .shr-logo{
+	margin-top: 10px;
+}
+.navbar-default .navbar-collapse{
+	margin-top: 10px;
+}
+.navbar-brand{
+	float: none;
+}
+.navbar-fixed-top .navbar-collapse{ 
+	max-height:100%;
+	background: #000000; }
+.navbar-toggle{ 
+	margin-top:10px; 
+	margin-bottom:5px; 
+}
+.navbar-default .navbar-nav>li>a{ 
+	margin-top: 0px; 
+	margin-top: 1px;
+	margin-bottom: 2px; 
+	padding-top: 15px; 
+	padding-bottom: 15px;
+	text-align: center;
+}
+.navbar-default .navbar-nav>li>a:hover{ 
+	background: #414142 !important; 
+	color: #FFF; 
+}
+.navbar{ 
+	min-height: 0px;
+}
+
+
+
+.shr-hero-area{
+	text-align: center;
+	padding-top: 120px;
+}
+.shr-hero-area h1{
+	padding-top: 0px;
+	font-size: 38px;
+}
+.shr-hero-area .btn{
+	margin-bottom: 20px;
+}
+
+
+.shr-welcome-area {
+  padding: 60px 0 0;
+}
+.shr-welcome-content{
+	padding-right: 0;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.shr-welcome-content i{
+	position: relative;
+	margin-bottom: 30px;
+}
+.shr-sub-title{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-features-area {
+  padding: 60px 0 30px;
+}
+.shr-left-features-text{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.shr-right-features-text{
+	margin-top: 0;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.shr-features-img{
+	margin-bottom: 30px;
+}
+
+
+.shr-pricing-area{
+	padding: 60px 0px 30px;
+}
+.shr-pricing-area .shr-table-col{
+	margin-bottom: 30px;
+}
+
+
+.shr-describe-area{
+	padding: 60px 0px 0px;
+	text-align: center;
+}
+.shr-discribe-col h1 {
+  font-size: 28px;
+  line-height: 40px;
+}
+.shr-discribe-col p{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-team-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-team-col{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-counter-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-counter-area .shr-count-col {
+  margin-bottom: 30px;
+}
+.shr-count-col i{
+	margin-bottom: 20px;
+}
+
+
+
+.shr-news-area{
+	padding: 60px 0px 60px;
+	text-align: center;
+}
+.shr-news-col{
+	margin-bottom: 30px;
+}
+.shr-news-content .shr-awesome{
+	position: relative;
+	margin-bottom: 20px;
+}
+.shr-news-content{
+	padding-left: 0px;
+}
+.shr-news-info ul li{
+	margin-right: 19px;
+	margin-left: 20px;
+}
+
+
+.shr-subscribe-area{
+	padding: 60px 0px 60px;
+}
+.shr-subscribe-area .form-control{
+	margin-bottom: 10px;
+}
+.navbar-form{
+	box-shadow: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.shr-contact-area{
+	padding: 60px 0px;
+}
+
+
+.shr-footer-area{
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.shr-footer-btn .btn{
+	margin-bottom: 20px;
+}
+.shr-footer-btn{
+	margin-bottom: 30px;
+}
+.shr-socila-grup{
+	padding-top: 30px;
+}
+.shr-socila-grup i{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+.shr-logo{
+	margin-top: 10px;
+	width: 100px;
+	height: auto;
+}
+.navbar{
+	min-height: 60px !important;
+}
+.top-nav-collapse .shr-logo{
+	margin-top: 10px;
+}
+.navbar-default .navbar-collapse{
+	margin-top: 10px;
+}
+.navbar-brand{
+	float: none;
+}
+.navbar-fixed-top .navbar-collapse{ 
+	max-height:100%;
+	background: #000000; }
+.navbar-toggle{ 
+	margin-top:10px; 
+	margin-bottom:5px; 
+}
+.navbar-default .navbar-nav>li>a{ 
+	margin-top: 0px; 
+	margin-top: 1px;
+	margin-bottom: 2px; 
+	padding-top: 15px; 
+	padding-bottom: 15px;
+	text-align: center;
+}
+.navbar-default .navbar-nav>li>a:hover{ 
+	background: #414142 !important; 
+	color: #FFF; 
+}
+.navbar{ 
+	min-height: 0px;
+}
+
+
+
+.shr-hero-area{
+	text-align: center;
+	padding-top: 120px;
+}
+.shr-hero-area h1{
+	padding-top: 0px;
+	font-size: 38px;
+}
+.shr-hero-area .btn{
+	margin-bottom: 20px;
+}
+
+
+.shr-welcome-area {
+  padding: 60px 0 0;
+}
+.shr-welcome-content{
+	padding-right: 0;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.shr-welcome-content i{
+	position: relative;
+	margin-bottom: 30px;
+}
+.shr-sub-title{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-features-area {
+  padding: 60px 0 30px;
+}
+.shr-left-features-text{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.shr-right-features-text{
+	margin-top: 0;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.shr-features-img{
+	margin-bottom: 30px;
+}
+
+
+.shr-pricing-area{
+	padding: 60px 0px 30px;
+}
+.shr-pricing-area .shr-table-col{
+	margin-bottom: 30px;
+}
+
+
+.shr-describe-area{
+	padding: 60px 0px 0px;
+	text-align: center;
+}
+.shr-discribe-col h1 {
+  font-size: 28px;
+  line-height: 40px;
+}
+.shr-discribe-col p{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-team-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-team-col{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-counter-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-counter-area .shr-count-col {
+  margin-bottom: 30px;
+}
+.shr-count-col i{
+	margin-bottom: 20px;
+}
+
+
+
+.shr-news-area{
+	padding: 60px 0px 60px;
+	text-align: center;
+}
+.shr-news-col{
+	margin-bottom: 30px;
+}
+.shr-news-content .shr-awesome{
+	position: relative;
+	margin-bottom: 20px;
+}
+.shr-news-content{
+	padding-left: 0px;
+}
+.shr-news-info ul li{
+	margin-right: 19px;
+	margin-left: 20px;
+}
+
+
+.shr-subscribe-area{
+	padding: 60px 0px 60px;
+}
+.shr-subscribe-area .form-control{
+	margin-bottom: 10px;
+}
+.navbar-form{
+	box-shadow: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.shr-contact-area{
+	padding: 60px 0px;
+}
+
+
+.shr-footer-area{
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.shr-footer-btn .btn{
+	margin-bottom: 20px;
+}
+.shr-footer-btn{
+	margin-bottom: 30px;
+}
+.shr-socila-grup{
+	padding-top: 30px;
+}
+.shr-socila-grup i{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+
+
+}
+
+/* Wide Mobile Layout:320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+.shr-logo{
+	margin-top: 10px;
+	width: 100px;
+	height: auto;
+}
+.navbar{
+	min-height: 60px !important;
+}
+.top-nav-collapse .shr-logo{
+	margin-top: 10px;
+}
+.navbar-default .navbar-collapse{
+	margin-top: 10px;
+}
+.navbar-brand{
+	float: none;
+}
+.navbar-fixed-top .navbar-collapse{ 
+	max-height:100%;
+	background: #000000; }
+.navbar-toggle{ 
+	margin-top:10px; 
+	margin-bottom:5px; 
+}
+.navbar-default .navbar-nav>li>a{ 
+	margin-top: 0px; 
+	margin-top: 1px;
+	margin-bottom: 2px; 
+	padding-top: 15px; 
+	padding-bottom: 15px;
+	text-align: center;
+}
+.navbar-default .navbar-nav>li>a:hover{ 
+	background: #414142 !important; 
+	color: #FFF; 
+}
+.navbar{ 
+	min-height: 0px;
+}
+
+
+
+.shr-hero-area{
+	text-align: center;
+	padding-top: 120px;
+}
+.shr-hero-area h1{
+	padding-top: 0px;
+	font-size: 38px;
+}
+.shr-hero-area .btn{
+	margin-bottom: 20px;
+}
+
+
+.shr-welcome-area {
+  padding: 60px 0 0;
+}
+.shr-welcome-content{
+	padding-right: 0;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.shr-welcome-content i{
+	position: relative;
+	margin-bottom: 30px;
+}
+.shr-sub-title{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-features-area {
+  padding: 60px 0 30px;
+}
+.shr-left-features-text{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.shr-right-features-text{
+	margin-top: 0;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.shr-features-img{
+	margin-bottom: 30px;
+	width: 100%;
+}
+
+
+.shr-pricing-area{
+	padding: 60px 0px 30px;
+}
+.shr-pricing-area .shr-table-col{
+	margin-bottom: 30px;
+}
+
+
+.shr-describe-area{
+	padding: 60px 0px 0px;
+	text-align: center;
+}
+.shr-discribe-col h1 {
+  font-size: 28px;
+  line-height: 40px;
+}
+.shr-discribe-col p{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-team-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-team-col{
+	margin-bottom: 30px;
+}
+
+
+
+.shr-counter-area{
+	padding: 60px 0px 30px;
+	text-align: center;
+}
+.shr-counter-area .shr-count-col {
+  margin-bottom: 30px;
+}
+.shr-count-col i{
+	margin-bottom: 20px;
+}
+
+
+
+.shr-news-area{
+	padding: 60px 0px 60px;
+	text-align: center;
+}
+.shr-news-col{
+	margin-bottom: 30px;
+}
+.shr-news-content .shr-awesome{
+	position: relative;
+	margin-bottom: 20px;
+}
+.shr-news-content{
+	padding-left: 0px;
+}
+
+
+.shr-subscribe-area{
+	padding: 60px 0px 60px;
+}
+.shr-subscribe-area .form-control{
+	margin-bottom: 10px;
+}
+.navbar-form{
+	box-shadow: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.shr-contact-area{
+	padding: 60px 0px;
+}
+
+
+.shr-footer-area{
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.shr-footer-btn .btn{
+	margin-bottom: 20px;
+}
+.shr-footer-btn{
+	margin-bottom: 30px;
+}
+.shr-socila-grup{
+	padding-top: 30px;
+}
+.shr-socila-grup i{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+
+
+
+
+}
